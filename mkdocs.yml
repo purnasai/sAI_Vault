@@ -1,0 +1,120 @@
+site_name: S AI vault
+theme:
+  name: material
+  logo: icons/vault.png
+  favicon: icons/valut.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/gpurnasai
+    - icon: fontawesome/brands/github
+      link: https://github.com/purnasai
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/purnasai-gudikandula/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@purnasaigudikandula
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+nav:
+  - 'Home': 
+      - 'Profile': 'index.md'
+
+  - 'Math':
+      - "Home": 'Math/index.md'
+  
+  - "ML":
+      - "Home": "ML/index.md"
+    
+  - "Old CV":
+      - "Home": "Old_CV/index.md"
+  
+  - "New CV":
+      - "Home": "New_CV/index.md"
+
+  - "Old NLP":
+      - "Home": "Old_NLP/index.md"
+      - "Pre-processing": "Old_NLP/preprocessing.md"
+      - "Encodings": "Old_NLP/encodings.md"
+      - "Tokenizers": "Old_NLP/tokenizers.md"
+      - "One-gram/Bi-gram/N-gram": "Old_NLP/ngrams.md"
+      - "Word2vec/Tf-idf": "Old_NLP/word2vec.md"
+      - "Embeddings": "Old_NLP/embeddings.md"
+
+
+  - "New NLP":
+      - "Home": "New_NLP/index.md"
+  
+  - "Tools": "Tools.md"
+
+  - "Others":
+      - "Home": "Others/index.md"
+      
+  - "Project Structuring":
+      - "home": "project_structuring/index.md"
+      
+  
+  # - "NLP":
+  #     - 'Interview Questions' : 'natural_language_processing/interview_questions.md'
+  #     - 'Models':
+  #         -  'Word2Vec': 'natural_language_processing/word2vec.md'
+  #         -  'LSTM, GRU & RNN': 'natural_language_processing/lstm_gru_rnn.md'
+  #         -  'Transformers': 'natural_language_processing/transformer.md'
+  #         -  'natural_language_processing/BERT.md'
+  #         -  'natural_language_processing/GPTs.md'
+  #         -  'MiniLM': 'natural_language_processing/minilm.md'
+  #         -  'natural_language_processing/T5.md'
+  #         -  'natural_language_processing/FlanModels.md'
+  #         # -  'ChatGPT': 'natural_language_processing/chatgpt.md'
+  #         -  'LLaMA': 'natural_language_processing/llama.md'
+  #     -  'Tasks':
+  #         -  'natural_language_processing/paraphraser.md'
+  #         -  'natural_language_processing/text_similarity.md'
+  #         -  'natural_language_processing/text_generation.md'
+  #         -  'natural_language_processing/relation_extraction.md'
+  #         -  'Question Answering': 'natural_language_processing/qa.md'
+  #         -  'Data-to-Text Generation': 'natural_language_processing/data_to_text_generation.md'
+  #         -  'Named Entity Recognition' : 'natural_language_processing/named_entity_recognition.md'
+  #         -  'Natural Language Querying': 'natural_language_processing/nlq.md'
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/purnasai"  target="_blank" rel="noopener">Purnasai G</a>

@@ -1,0 +1,1 @@
+It houses my observations from blogs, quora, linkedin, twitter and more here.
