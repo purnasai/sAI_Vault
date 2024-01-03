@@ -19,6 +19,12 @@ This page has all terminologies / nominclature / nuance that we use in Data Scie
 - power shell
 - command prompt
 
+### Project
+- SME-Subject matter expertise
+- SPOC- Single point of contact
+- MVP- Minimum viable product
+- UAT- User acceptance testing
+
 ### Deployment
 - Deploy/Ship
 - logging

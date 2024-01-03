@@ -5,3 +5,6 @@
 </p>
 
 after adding files to git, VSCode **dulls** folders in FileViewer. Do not include “*” after folder path.
+
+check more [here](https://mrkandreev.name/snippets/gitignore-generator/#Python)
+
