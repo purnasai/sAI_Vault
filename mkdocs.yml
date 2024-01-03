@@ -63,11 +63,23 @@ nav:
   - 'Math':
       - "Math": 'Math/index.md'
   
-  - "ML":
+  - "Machine Learning":
       - "ML": "ML/index.md"
-    
+      - "Algorithms": "ML/algorithms.md"
+      - "Feature selection": "ML/feature_selection.md"
+      - "Hyperparameter tune": "ML/hyperparameter_tune.md"
+      - "Explainability": "ML/Explainability.md"
+
+  
+  - "Deep Learning":
+      - "DL": "DL/index.md"
+      - "Activations": "DL/activations.md"
+      - "Normalization": "DL/normalization.md"
+      - "Trackers": "DL/trackers.md"
+
   - "Old CV":
       - "Old CV": "Old_CV/index.md"
+      - "Gradcam": "Old_CV/grad_cam.md"
   
   - "New CV":
       - "New CV": "New_CV/index.md"
@@ -85,13 +97,24 @@ nav:
 
   - "New NLP":
       - "New NLP": "New_NLP/index.md"
+      - "QLora": "New_NLP/QLora.md"
   
   - "Tools": "Tools.md"
 
   - "Others":
       - "Others": "Others/index.md"
       - "Terminologies": "Others/terminologies.md"
-      
+      - "API Implementation": "Others/Api_Implementation.md"
+      - "Annotation tool": "Others/annotation_tools.md"
+      - "Free GPUs" : "Others/free_gpus.md"
+      - "Notes Taking": Others/notes_taking.md
+      - "Observations": Others/observations.md
+      - "People": Others/people_to_follow.md
+      - "Quick Demo libs": Others/quick_apps.md
+      - "Tesseract": Others/tesseract_in_colab.md
+      - "Tutorials": Others/tutorails.md
+      - "Gpu understanding": Others/understanding_gpu.md
+
   - "Project Maintainence":
       - "Project Maintainence": "project_maintainence/index.md"
       - "PMP course": "project_maintainence/PMP course.md"
