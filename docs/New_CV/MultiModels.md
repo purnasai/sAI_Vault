@@ -23,12 +23,13 @@ Fusion:
 combining information from different modalities into a single representation.
 
 Usecases of dealing with just 2 modalities:
+
 - Retrieval (image <> text) 
-● Captioning (image -> text) 
-● Generation (text -> image) 
-● Visual question answering (image+text -> text) 
-● Multimodal classification (image+text -> label) 
-	● Better understanding/generation (image+text -> label/text)
+- Captioning (image -> text) 
+- Generation (text -> image) 
+- Visual question answering (image+text -> text) 
+- Multimodal classification (image+text -> label) 
+	- Better understanding/generation (image+text -> label/text)
 
 Some popular models:
 - [PaLI](https://sites.research.google/pali/?ref=blog.roboflow.com) (Pathways Language and Image model)
@@ -50,7 +51,8 @@ BEIT:
 
 ##### Chapter-1
 Outline:
-- NLP
+
+- NLP:
 	- Word embeddings
 	- Attention
 	- Self-attention
@@ -61,7 +63,7 @@ Outline:
 	- Efficientnet
 	- simCLR
 	- BYOL
-- Multimodal base concept models
+- Multimodal base concept models:
 	- GANs
 	- VAE
 	- Dall-E
@@ -109,7 +111,7 @@ Another obstacle was a degradation problem. It occurs when the network depth inc
 
 Residual learning is adopted to every few stacked layers where a building block is defined:
 
-												y=F(x,{Wi})+x   (2.1)
+								y=F(x,{Wi})+x   (2.1)
 
 x and y present the input and output vectors of the layers. Figure below visualizes the building block.
 
@@ -143,17 +145,16 @@ problem: is that it dobules the size of dataset, and became expensive and infeas
 
 **BYOL**: Bootstrap your own latent is introduced to avoid doubling dataset size like SimCLR. Idea is to bootstrap its own representations of same image.
 
-read more about them [here](https://slds-lmu.github.io/seminar_multimodal_dl/c01-00-intro-modalities.html#the-contrastive-learning-framework)
-
 #### CHAPTER-3
 
 
 
 
 References:
-- https://blog.roboflow.com/multimodal-models/
-- https://web.stanford.edu/class/cs224n/slides/Multimodal-Deep-Learning-CS224n-Kiela.pdf
-- https://slds-lmu.github.io/seminar_multimodal_dl/index.html
-- https://slds-lmu.github.io/seminar_multimodal_dl/introduction.html
 
+- https://blog.roboflow.com/multimodal-models/
+
+- https://web.stanford.edu/class/cs224n/slides/Multimodal-Deep-Learning-CS224n-Kiela.pdf
+
+- https://slds-lmu.github.io/seminar_multimodal_dl/index.html
 

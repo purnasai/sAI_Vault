@@ -8,7 +8,6 @@ Check My Complete Profile [here](https://purnasai.github.io/)
 
 I am Purnasai Gudikandula. I work as a Senior Data scientist. 
 
-
 In a world marked by relentless competition, the pursuit of excellence is ubiquitous. Every individual traversing their career path accumulates a wealth of knowledge—be it in project management, pipeline construction, architectural design, product development, and beyond.
 
 Observing diverse approaches to preserving these insights, I've curated a singular repository for all my learning experiences—a place I fondly refer to as 'Valut'.

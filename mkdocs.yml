@@ -8,6 +8,7 @@ theme:
     - navigation.sections
     # - toc.integrate
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -60,19 +61,20 @@ nav:
       - 'Profile': 'index.md'
 
   - 'Math':
-      - "Home": 'Math/index.md'
+      - "Math": 'Math/index.md'
   
   - "ML":
-      - "Home": "ML/index.md"
+      - "ML": "ML/index.md"
     
   - "Old CV":
-      - "Home": "Old_CV/index.md"
+      - "Old CV": "Old_CV/index.md"
   
   - "New CV":
-      - "Home": "New_CV/index.md"
+      - "New CV": "New_CV/index.md"
+      - "Multimodels": "New_CV/MultiModels.md"
 
   - "Old NLP":
-      - "Home": "Old_NLP/index.md"
+      - "Old NLP": "Old_NLP/index.md"
       - "Pre-processing": "Old_NLP/preprocessing.md"
       - "Encodings": "Old_NLP/encodings.md"
       - "Tokenizers": "Old_NLP/tokenizers.md"
@@ -82,15 +84,22 @@ nav:
 
 
   - "New NLP":
-      - "Home": "New_NLP/index.md"
+      - "New NLP": "New_NLP/index.md"
   
   - "Tools": "Tools.md"
 
   - "Others":
-      - "Home": "Others/index.md"
+      - "Others": "Others/index.md"
+      - "Terminologies": "Others/terminologies.md"
       
-  - "Project Structuring":
-      - "home": "project_structuring/index.md"
+  - "Project Maintainence":
+      - "Project Maintainence": "project_maintainence/index.md"
+      - "PMP course": "project_maintainence/PMP course.md"
+      - "Project structure": "project_maintainence/project_structure.md"
+      - "Source title": "project_maintainence/source_title.md"
+      - "Reproducibility": "project_maintainence/reproducibility.md"
+      - "Memory release": "project_maintainence/memory_release.md"
+      - "Writing gitignore": "project_maintainence/writing gitignore.md"
       
   
   # - "NLP":
