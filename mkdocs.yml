@@ -60,6 +60,19 @@ nav:
   - 'Home': 
       - 'Profile': 'index.md'
 
+  - "Python":
+    - "Bytes":
+      - "Quicks": "python/Bytes.md"
+    - "Python":
+      - "Data structures": "python/Datastructures.md"
+      - "Advanced": "python/advanced_python.md"
+    - "Object Oriented":      
+      - "OOPS": "python/OOPS.md"
+    - "Efficient python":
+      - "speed and memory": "python/efficient_python.md"
+    - "DSA":  
+      - "Algorithms": "python/algorithms.md"
+
   - 'Math':
       - "Math": 'Math/index.md'
   
@@ -77,32 +90,42 @@ nav:
       - "Normalization": "DL/normalization.md"
       - "Trackers": "DL/trackers.md"
 
-  - "Old CV":
-      - "Old CV": "Old_CV/index.md"
-      - "Gradcam": "Old_CV/grad_cam.md"
-  
-  - "New CV":
-      - "New CV": "New_CV/index.md"
-      - "Multimodels": "New_CV/MultiModels.md"
+  - "Computer Vision":
+    - "Old CV":
+        - "Old CV": "Old_CV/index.md"
+        - "Gradcam": "Old_CV/grad_cam.md"
+    
+    - "New CV":
+        - "New CV": "New_CV/index.md"
+        # - "Multimodels": "New_CV/MultiModels.md"
 
-  - "Old NLP":
-      - "Old NLP": "Old_NLP/index.md"
-      - "Pre-processing": "Old_NLP/preprocessing.md"
-      - "Encodings": "Old_NLP/encodings.md"
-      - "Tokenizers": "Old_NLP/tokenizers.md"
-      - "One-gram/Bi-gram/N-gram": "Old_NLP/ngrams.md"
-      - "Word2vec/Tf-idf": "Old_NLP/word2vec.md"
-      - "Embeddings": "Old_NLP/embeddings.md"
+  - "Natural Language Processing":
+    - "Old NLP":
+        - "Old NLP": "Old_NLP/index.md"
+        - "Pre-processing": "Old_NLP/preprocessing.md"
+        - "Encodings": "Old_NLP/encodings.md"
+        - "Tokenizers": "Old_NLP/tokenizers.md"
+        - "One-gram/Bi-gram/N-gram": "Old_NLP/ngrams.md"
+        - "Word2vec/Tf-idf": "Old_NLP/word2vec.md"
+        - "Embeddings": "Old_NLP/embeddings.md"
 
 
-  - "New NLP":
-      - "New NLP": "New_NLP/index.md"
-      - "QLora": "New_NLP/QLora.md"
-  
-  - "Tools": "Tools.md"
+    - "New NLP":
+        - "New NLP": "New_NLP/index.md"
+        - "QLora": "New_NLP/QLora.md"
+
+  - "MLOPS":
+      - "MLOPs": "MLOPS/index.md"
+      
+  - "Notes":
+      - "Talks":
+        - "Sample Talk": "Notes/talks.md"
+      - "YT Videos":
+        - "know train depoly of LLMs": "Notes/know_train_deploy_LLMs.md"
+      - "Blogs":
+        - "Finetuning LLM": "Notes/finetuning_LLMs.md"
 
   - "Others":
-      - "Others": "Others/index.md"
       - "Terminologies": "Others/terminologies.md"
       - "API Implementation": "Others/Api_Implementation.md"
       - "Annotation tool": "Others/annotation_tools.md"
@@ -123,30 +146,6 @@ nav:
       - "Reproducibility": "project_maintainence/reproducibility.md"
       - "Memory release": "project_maintainence/memory_release.md"
       - "Writing gitignore": "project_maintainence/writing gitignore.md"
-      
-  
-  # - "NLP":
-  #     - 'Interview Questions' : 'natural_language_processing/interview_questions.md'
-  #     - 'Models':
-  #         -  'Word2Vec': 'natural_language_processing/word2vec.md'
-  #         -  'LSTM, GRU & RNN': 'natural_language_processing/lstm_gru_rnn.md'
-  #         -  'Transformers': 'natural_language_processing/transformer.md'
-  #         -  'natural_language_processing/BERT.md'
-  #         -  'natural_language_processing/GPTs.md'
-  #         -  'MiniLM': 'natural_language_processing/minilm.md'
-  #         -  'natural_language_processing/T5.md'
-  #         -  'natural_language_processing/FlanModels.md'
-  #         # -  'ChatGPT': 'natural_language_processing/chatgpt.md'
-  #         -  'LLaMA': 'natural_language_processing/llama.md'
-  #     -  'Tasks':
-  #         -  'natural_language_processing/paraphraser.md'
-  #         -  'natural_language_processing/text_similarity.md'
-  #         -  'natural_language_processing/text_generation.md'
-  #         -  'natural_language_processing/relation_extraction.md'
-  #         -  'Question Answering': 'natural_language_processing/qa.md'
-  #         -  'Data-to-Text Generation': 'natural_language_processing/data_to_text_generation.md'
-  #         -  'Named Entity Recognition' : 'natural_language_processing/named_entity_recognition.md'
-  #         -  'Natural Language Querying': 'natural_language_processing/nlq.md'
 
 copyright: |
   &copy; 2024 <a href="https://github.com/purnasai"  target="_blank" rel="noopener">Purnasai G</a>

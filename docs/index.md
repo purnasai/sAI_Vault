@@ -12,6 +12,12 @@ In a world marked by relentless competition, the pursuit of excellence is ubiqui
 
 Observing diverse approaches to preserving these insights, I've curated a singular repository for all my learning experiences—a place I fondly refer to as 'Valut'.
 
+<!-- These are comments here. they wont show up in frontend -->
+<!-- cvpr workshop vids: https://www.youtube.com/@ComputerVisionFoundation/videos -->
+<!-- Bytes should be in every page -->
+
+## This PAGE building is Under Progress.. The Currrent version is a Base Version.
+
 Thank you for checking this page..
 
 <div>

@@ -1,0 +1,1 @@
+This containes the notes/observations from Blogs, youtube talks, youtube videos here.

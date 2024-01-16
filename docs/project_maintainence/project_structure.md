@@ -32,6 +32,10 @@ These are the some points that I noticed in my past experience in Data science l
 - models
     - model_rf.bin
     - model_et.bin
+- tests
+    - test_train.py
+    - test_models.py
+    - test_inference.py
 - notebooks
     - exploration.ipynb
     - check_data.ipynb

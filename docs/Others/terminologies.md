@@ -26,6 +26,10 @@ This page has all terminologies / nominclature / nuance that we use in Data Scie
 - UAT- User acceptance testing
 
 ### Deployment
+- Synchronous(one request at a time)- serial request handler
+- Asynchronous(multi requests at a time)- Parallel requests handler
+- latency(task completion time)
+- throughput(no.of.requests to handle)
 - Deploy/Ship
 - logging
 - monitoring
@@ -50,14 +54,25 @@ This page has all terminologies / nominclature / nuance that we use in Data Scie
 - Model metric(classification & regression)
 
 ## MODELs:
-**Knowledge distillation** involves training a smaller model (student) to mimic the behavior of a larger, pre-trained model (teacher) like BERT. This compact model learns not just the teacher’s predictions but also its confidence and reasoning. This approach is particularly useful when deploying BERT on resource-constrained devices.
+**Knowledge distillation** involves training a smaller model (student) to mimic the behavior of a larger, pre-trained model (teacher) like BERT. Distillbert is Smaller & quicker to Bert. This compact model learns not just the teacher’s predictions but also its confidence and reasoning. This approach is particularly useful when deploying BERT on resource-constrained devices.
 
-- latency
+- latency- delay b/n input & output.
+- throughput- no of predictions a model can handle in specific time.
 - zero, one, few shot learning
+- test/UAT environment
+- Pre-production environment
 - production environment
 - deployment environment
-- test/UAT environment
 - stateless training (from sebastian raschaka Q&A book)
 - statefull training
 - data-centric ai(focus on data to improve performance.)
 - model-centric ai(focus on model to improve performance.)
+
+### Startup
+- bootstraped- self funding with no external
+- Vertical SAAS- Building on single usecase indepth- End-to-End
+- Horizontal SAAS- Building on Multiple usecases paralelly like detection, classification, ocr all at once. 
+
+### Others
+- Mutually exclusive: 2 events won't happen simultaneously.
+- Non Mutually Exclusive: 2 events occur same time.

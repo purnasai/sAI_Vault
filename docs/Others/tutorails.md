@@ -11,3 +11,5 @@ to check all accounts
 git config --global user.name
 git config --global user.email
 
+
+Add complete git tutorial here
