@@ -61,7 +61,7 @@ nav:
       - 'Profile': 'index.md'
 
   - "Python":
-    - "Python":"python/index.md"
+    - "Python": "python/index.md"
     - "Bytes": "python/Bytes.md"
     - "Better programming":
       - "property method": "python/property.md"
