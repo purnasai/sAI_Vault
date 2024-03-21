@@ -61,17 +61,24 @@ nav:
       - 'Profile': 'index.md'
 
   - "Python":
-    - "Bytes":
-      - "Quicks": "python/Bytes.md"
-    - "Python":
+    - "Python":"python/index.md"
+    - "Bytes": "python/Bytes.md"
+    - "Better programming":
+      - "property method": "python/property.md"
+      - "getter setter in class": "python/property.md"
+      - "private variable": "python/property.md"
+      - "static method": "python/static_method.md"
+      - "Decorators": "python/Decorators.md"
+      - "Generators": "python/generators.md"
+      - "Pydantic": "python/pydantic.md"
+    - "DSA":
       - "Data structures": "python/Datastructures.md"
       - "Advanced": "python/advanced_python.md"
+      - "Algorithms": "python/algorithms.md"
     - "Object Oriented":      
       - "OOPS": "python/OOPS.md"
     - "Efficient python":
       - "speed and memory": "python/efficient_python.md"
-    - "DSA":  
-      - "Algorithms": "python/algorithms.md"
 
   - 'Math':
       - "Math": 'Math/index.md'

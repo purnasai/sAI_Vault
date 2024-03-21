@@ -17,3 +17,9 @@ NLP methods before transformers and basic building blocks of nlp
 - 3.NER
 
 Will add more...
+
+<!--https://www.analyticsvidhya.com/blog/2020/01/3-important-nlp-libraries-indian-languages-python/
+https://indicnlp.ai4bharat.org/pages/indicnlp-resources/
+https://www.newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python
+https://copyprogramming.com/howto/python-find-similar-words-from-a-list-python
+>
