@@ -1,7 +1,8 @@
 1. Varibale Casing
 
 Casing in python:
-Pascal casing is not used in python much.
+- Pascal casing is not used in python much.
+- Snke casing is used mostly.
 ![Alt text](image.png)
 
 2. **id()**: unique identifier is memory address of object referenced by a variable. 
@@ -41,10 +42,10 @@ for _ in range(100): # here instead of "i", "_" is used. so we are limiting memo
 a,b,_ = "value1", "value2", "value3" # since we dont need "value3" to use, so using anonymous variable.
 ```
 
-6. Function readability:
+6. Function readability
 
 Instead of keeping multiple logics in Single function, it is always better to keep multiple simple functions for multiple logics. this way it is easier to route through, to understand, to read the code more clearly.
 
-7. Type hinting:
+7. Type hinting
 
 Type hinting in python enhances code readability. helps anyone to easily understand the type of data that goes inside and comes outside of a function.
