@@ -79,6 +79,7 @@ nav:
       - "OOPS": "python/OOPS.md"
     - "Efficient python":
       - "speed and memory": "python/efficient_python.md"
+      - "Multithread and processing": "python/multithread_multiprocess.md"
 
   - 'Math':
       - "Math": 'Math/index.md'
