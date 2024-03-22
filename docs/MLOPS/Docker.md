@@ -6,6 +6,7 @@ Docker makes Depolyment Easy and Reproducible by using **Containers**.
 ![alt text](image-1.png)
 
 **What is Dockerfile:**
+
 - A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image.
 
 - is essential blueprint/recepie for constructing docker image.
@@ -112,9 +113,13 @@ you can check Container-id from below example image:
 Container holds a single image or multiple image. one don't need a `docker-compose.yml` file when it is a single image. `docker-compose.yml` file is used to create Multiple Images (or) stack (or) layers of Images.
 
 Example:
+
 - Ubuntu base image
+
 - Node
+
 - mongodb
+
 - redis
 
 **Note:** Each container runs on diferent port.
