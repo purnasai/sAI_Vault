@@ -85,6 +85,7 @@ nav:
   
   - "Machine Learning":
       - "ML": "ML/index.md"
+      - "Pipeline": "ML/lifecycle.md"
       - "Algorithms": "ML/algorithms.md"
       - "Feature selection": "ML/feature_selection.md"
       - "Hyperparameter tune": "ML/hyperparameter_tune.md"
@@ -123,6 +124,7 @@ nav:
 
   - "MLOPS":
       - "MLOPs": "MLOPS/index.md"
+      - "Docker": "MLOPS/Docker.md"
       
   - "Notes":
       - "Talks":
