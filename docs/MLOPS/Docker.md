@@ -7,8 +7,11 @@ Docker makes Depolyment Easy and Reproducible by using **Containers**.
 
 **What is Dockerfile:**
 - A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image.
+
 - is essential blueprint/recepie for constructing docker image.
+
 - It includes instructions such as what base image to use, what dependencies to install, what files to add, and what commands to run when the image is instantiated.
+
 - Dockerfiles are used to automate the creation of Docker images, ensuring consistency and reproducibility.
 
 ```Dockerfile
