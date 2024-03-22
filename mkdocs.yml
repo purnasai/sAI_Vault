@@ -64,6 +64,7 @@ nav:
     - "Python": "python/index.md"
     - "Bytes": "python/Bytes.md"
     - "Better programming":
+      - "Tmux": "python/tmux.md"
       - "property method": "python/property.md"
       - "getter setter in class": "python/property.md"
       - "private variable": "python/property.md"
@@ -126,6 +127,7 @@ nav:
   - "MLOPS":
       - "MLOPs": "MLOPS/index.md"
       - "Docker": "MLOPS/Docker.md"
+      - "Git": "MLOPS/Git.md"
       
   - "Notes":
       - "Talks":
@@ -155,7 +157,6 @@ nav:
       - "Source title": "project_maintainence/source_title.md"
       - "Reproducibility": "project_maintainence/reproducibility.md"
       - "Memory release": "project_maintainence/memory_release.md"
-      - "Writing gitignore": "project_maintainence/writing gitignore.md"
 
 copyright: |
   &copy; 2024 <a href="https://github.com/purnasai"  target="_blank" rel="noopener">Purnasai G</a>
