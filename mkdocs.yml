@@ -142,13 +142,9 @@ nav:
       - "API Implementation": "Others/Api_Implementation.md"
       - "Frameworks": "Others/frameworks.md"
       - "Annotation tool": "Others/annotation_tools.md"
-      - "Free GPUs" : "Others/free_gpus.md"
       - "Notes Taking": Others/notes_taking.md
       - "Observations": Others/observations.md
-      - "People": Others/people_to_follow.md
-      - "Quick Demo libs": Others/quick_apps.md
       - "Tesseract": Others/tesseract_in_colab.md
-      - "Tutorials": Others/tutorails.md
       - "Gpu understanding": Others/understanding_gpu.md
 
   - "Project Maintainence":

@@ -80,7 +80,7 @@ This page has all terminologies / nominclature / nuance that we use in Data Scie
 - ERP- Enterprise resource planning.
 - Stakeholder
 
-## MODELs:
+### MODELs:
 **Knowledge distillation** involves training a smaller model (student) to mimic the behavior of a larger, pre-trained model (teacher) like BERT. Distillbert is Smaller & quicker to Bert. This compact model learns not just the teacher’s predictions but also its confidence and reasoning. This approach is particularly useful when deploying BERT on resource-constrained devices.
 
 - latency- delay b/n input & output.
