@@ -126,7 +126,9 @@ nav:
 
   - "MLOPS":
       - "MLOPs": "MLOPS/index.md"
-      - "Docker": "MLOPS/Docker.md"
+      - "Docker":
+        - "Part1": "MLOPS/Docker.md"
+        - "Part2": "MLOPS/Docker2.md"
       - "Git": "MLOPS/Git.md"
       
   - "Notes":
