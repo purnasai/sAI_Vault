@@ -1,6 +1,40 @@
-Fast api
-flask
-Docker Gradio here: https://modelz.ai/blog/gradio-docker
+REST API Framework:
+- Fast api
+- Flask
+- Djano Rest Framework**
+
+Containerization:
+- Docker 
+- Kubernetes
+
+Quick build apps:
+- Gradio here: https://modelz.ai/blog/gradio-docker
+- streamlit
+
+BackEnd tech:
+- python(django, flask)
+- node js
+- go lang
+- next js
+
+FrontEnd tech:
+- angular js
+- react js
+- next js**
+
+API Development Testing tools:
+- Insomnia
+- postman
+
+Project Design tool:
+- figma - for ui screen design
+
+**Database Management**: Understanding databases is crucial. Common ones include:
+- **SQL databases**: Such as PostgreSQL, MySQL, SQLite
+- **NoSQL databases**: Like MongoDB, Cassandra, Redis.
+
+**Version Control System**:
+- **Git**: Essential for code versioning, collaboration, and tracking changes
 
 
 #### Curl
@@ -63,5 +97,25 @@ Example scenarios:
 #### Custom Domain:
 using Nginx
 
+**Ngrok/Nginx**: tools for networking and server configurations. Ngrok creates secure tunnels to local servers(localhost:8000 port), allowing access from the internet. Nginx is a web server that manages web traffic, handles reverse proxy, and serves web content efficiently.(**Serverconfiguration**)
+
+
 https://mblog.com/https-custom-domain-with-mkcert
+
+**Background Tasks**:
+- **Celery (Python)**: Enables you to run asynchronous tasks and is commonly used for handling background jobs.
+
+**Error Monitoring and Logging**:    
+    - **Sentry, ELK Stack (Elasticsearch, Logstash, Kibana)**: Tools to monitor and log errors, system performance, and application behavior
+
+**Caching**:    
+    - **Redis**: Used as an in-memory data store for caching frequently accessed data, improving application performance.
+
+**WebSockets** (for real-time communication):    
+    - **Socket.io (for Node.js)**: Enables real-time bidirectional event-based communication
+
+**Authentication and Authorization**:
+- **JWT (JSON Web Tokens)**: For secure authentication
+- **OAuth**: Authentication framework used for authorization
+
 

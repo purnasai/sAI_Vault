@@ -49,3 +49,15 @@ Instead of keeping multiple logics in Single function, it is always better to ke
 7. Type hinting
 
 Type hinting in python enhances code readability. helps anyone to easily understand the type of data that goes inside and comes outside of a function.
+
+<p align="center" width="100%">
+    <img width="40%" src="../imgs/type_checking.png"></img>
+</p>
+
+
+8. Exception-handling
+
+Exception handling is must and always handy.
+
+9. Parquet
+using parquet(instead of csv/json/numpy/pickle) file comes with less storage size & quick redability

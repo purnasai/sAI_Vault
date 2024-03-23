@@ -11,8 +11,11 @@ This page has all terminologies / nominclature / nuance that we use in Data Scie
 
 ### Environment
 - Test environment
+- preproduction enviroment
 - production environment
 - staging environment
+- Development server
+- Deployment server
 
 ### CMD
 - putty
@@ -24,6 +27,7 @@ This page has all terminologies / nominclature / nuance that we use in Data Scie
 - SPOC- Single point of contact
 - MVP- Minimum viable product
 - UAT- User acceptance testing
+- SOW- Scope of Work
 
 ### Deployment
 - Synchronous(one request at a time)- serial request handler
@@ -50,8 +54,31 @@ This page has all terminologies / nominclature / nuance that we use in Data Scie
 - Requirements
 - MVP(Minimum viable product)
 - UAT(user acceptance testing)
-- Business metric(increase in email openings)
 - Model metric(classification & regression)
+- Dependency
+- Resource allocation 
+- sprint
+- scrum master
+- work breakdown structure
+- code review
+- release management
+- pip- performance improvement programe.
+
+
+
+### Business:
+- SLA(Service level agreement)- things we promise to deliver as service to client.
+- Business metric(increase in email openings)
+- KPI(key performance indicators)-Quantifiable measures used to evaluate the success or performance of an organization, project, or individual against specific objectives or goals.
+- ROI- return of investment.
+- SWOT- strength, weakness, opportunity and threat.
+- B2c/B2B - business models
+- QA- Quality assurance
+- RFP- Request for proposal/Request for Quote.
+- SOP- standard operating procedure.
+- CRM- Customer relationship manager
+- ERP- Enterprise resource planning.
+- Stakeholder
 
 ## MODELs:
 **Knowledge distillation** involves training a smaller model (student) to mimic the behavior of a larger, pre-trained model (teacher) like BERT. Distillbert is Smaller & quicker to Bert. This compact model learns not just the teacher’s predictions but also its confidence and reasoning. This approach is particularly useful when deploying BERT on resource-constrained devices.
@@ -59,14 +86,20 @@ This page has all terminologies / nominclature / nuance that we use in Data Scie
 - latency- delay b/n input & output.
 - throughput- no of predictions a model can handle in specific time.
 - zero, one, few shot learning
-- test/UAT environment
-- Pre-production environment
-- production environment
-- deployment environment
 - stateless training (from sebastian raschaka Q&A book)
 - statefull training
 - data-centric ai(focus on data to improve performance.)
 - model-centric ai(focus on model to improve performance.)
+- model efficiency:
+    - pin memory
+    - num workers
+    - gradient checkpoint
+    - Model pruning
+    - Model quantization
+    - Learning rate schedule
+- label smooting
+- transfer learning
+- Mixed precision training
 
 ### Startup
 - bootstraped- self funding with no external

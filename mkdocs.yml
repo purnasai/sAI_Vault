@@ -140,6 +140,7 @@ nav:
   - "Others":
       - "Terminologies": "Others/terminologies.md"
       - "API Implementation": "Others/Api_Implementation.md"
+      - "Frameworks": "Others/frameworks.md"
       - "Annotation tool": "Others/annotation_tools.md"
       - "Free GPUs" : "Others/free_gpus.md"
       - "Notes Taking": Others/notes_taking.md
