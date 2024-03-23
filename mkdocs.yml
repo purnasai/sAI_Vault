@@ -64,7 +64,7 @@ nav:
     - "Python": "python/index.md"
     - "Bytes": "python/Bytes.md"
     - "Better programming":
-      - "Tmux": "python/tmux.md"
+      - "Tmux": "python/terminal_multiplexer.md"
       - "property method": "python/property.md"
       - "getter setter in class": "python/property.md"
       - "private variable": "python/property.md"
