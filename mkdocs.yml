@@ -72,6 +72,7 @@ nav:
       - "Decorators": "python/Decorators.md"
       - "Generators": "python/generators.md"
       - "Pydantic": "python/pydantic.md"
+      - "Poetry": "python/poetry.md"
     - "DSA":
       - "Data structures": "python/Datastructures.md"
       - "Advanced": "python/advanced_python.md"
@@ -84,6 +85,9 @@ nav:
 
   - 'Math':
       - "Math": 'Math/index.md'
+      - "Statistics":
+        - "AB Test": "Math/ab_test.md"
+        - "P value": "Math/p_value.md"
   
   - "Machine Learning":
       - "ML": "ML/index.md"
