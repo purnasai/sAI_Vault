@@ -3,7 +3,7 @@
 Check My Complete Profile [here](https://purnasai.github.io/)
 
 <p align="center" width="100%">
-    <img width="33%" src="../../icons/profile_pic.jpg">
+    <img width="33%" src="icons/profile_pic.jpg">
 </p>
 
 I am Purnasai Gudikandula. I work as a Senior Data scientist. 
@@ -22,10 +22,10 @@ This valut keeps continously updating...!
 Thank you for checking this page..
 
 <div>
-    <a href="https://www.linkedin.com/in/purnasai-gudikandula/"style="display: inline-block margin-right: 500px;">
-    <img src="../../icons/linkedin-original.svg" alt="linkedin" style="width:20px;height:20px;">
+    <a href="https://www.linkedin.com/in/purnasai-gudikandula/" style="display: inline-block margin-right: 500px;">
+    <img src="icons/linkedin-original.svg" alt="linkedin" style="width:20px;height:20px;">
     </a>
     <a href="https://github.com/purnasai">
-    <img src="../../icons/github.svg" alt="github" style="width:20px;height:20px;">
+    <img src="icons/github.svg" alt="github" style="width:20px;height:20px;">
     </a>
 </div>
