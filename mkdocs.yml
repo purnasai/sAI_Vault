@@ -113,7 +113,7 @@ nav:
         - "New CV": "New_CV/index.md"
         # - "Multimodels": "New_CV/MultiModels.md"
 
-  - "Natural Language Processing":
+  - "Natural Lang Processing":
     - "Old NLP":
         - "Old NLP": "Old_NLP/index.md"
         - "Pre-processing": "Old_NLP/preprocessing.md"
@@ -134,7 +134,13 @@ nav:
         - "Part1": "MLOPS/Docker.md"
         - "Part2": "MLOPS/Docker2.md"
       - "Git": "MLOPS/Git.md"
-      
+  
+  - "DB":
+    - "PostgreSQL": "DB/index.md"
+
+  - "Cloud":
+    - "AWS": "AWS/index.md"
+  
   - "Notes":
       - "Talks":
         - "Sample Talk": "Notes/talks.md"
@@ -153,7 +159,7 @@ nav:
       - "Tesseract": Others/tesseract_in_colab.md
       - "Gpu understanding": Others/understanding_gpu.md
 
-  - "Project Maintainence":
+  - "Project Upkeep":
       - "Project Maintainence": "project_maintainence/index.md"
       - "PMP course": "project_maintainence/PMP course.md"
       - "Project structure": "project_maintainence/project_structure.md"
